@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Lights Out",
+    "artist": "Nubiyan Twist",
+    "file_name": "Nubiyan Twist - Lights Out.mp3",
+    "url": "./muzika/Nubiyan Twist - Lights Out.mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "title": "Nisi znala za bol srca moga Uros Zivkovic Otislo je milo moje",
+    "artist": "Unknown Artist",
+    "file_name": "02 Nisi znala za bol srca moga Uros Zivkovic Otislo je milo moje.mp3",
+    "url": "./muzika/02 Nisi znala za bol srca moga Uros Zivkovic Otislo je milo moje.mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "title": "Live Ibro Bublin Kafansko vece (Live)",
+    "artist": "Hej Jano Jano",
+    "file_name": "03 Hej Jano Jano - Live Ibro Bublin Kafansko vece (Live).mp3",
+    "url": "./muzika/03 Hej Jano Jano - Live Ibro Bublin Kafansko vece (Live).mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "title": "Live Šerif Konjević Kafansko vece (Live)",
+    "artist": "Zaljubljen",
+    "file_name": "02 Zaljubljen - Live Šerif Konjević Kafansko vece (Live).mp3",
+    "url": "./muzika/02 Zaljubljen - Live Šerif Konjević Kafansko vece (Live).mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "title": "Live Rade Kosmajac Kafansko vece (Live)",
+    "artist": "Najjaci",
+    "file_name": "06 Najjaci - Live Rade Kosmajac Kafansko vece (Live).mp3",
+    "url": "./muzika/06 Najjaci - Live Rade Kosmajac Kafansko vece (Live).mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "title": "Live Sejo Boy Kafansko veče (Live)",
+    "artist": "Kosa crna, oko plavo",
+    "file_name": "05 Kosa crna, oko plavo - Live Sejo Boy Kafansko veče (Live).mp3",
+    "url": "./muzika/05 Kosa crna, oko plavo - Live Sejo Boy Kafansko veče (Live).mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 7,
+    "title": "Live Denis Kadric Kafansko vece (Live)",
+    "artist": "Bog mi je svedok",
+    "file_name": "01 Bog mi je svedok - Live Denis Kadric Kafansko vece (Live).mp3",
+    "url": "./muzika/01 Bog mi je svedok - Live Denis Kadric Kafansko vece (Live).mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 8,
+    "title": "Cover Aleksandra Bursac Juce sam",
+    "artist": "Juce sam",
+    "file_name": "01 Juce sam - Cover Aleksandra Bursac Juce sam.mp3",
+    "url": "./muzika/01 Juce sam - Cover Aleksandra Bursac Juce sam.mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 9,
+    "title": "Live Anid Ćusić Kafansko veče (Live)",
+    "artist": "Cinio sam cuda",
+    "file_name": "02 Cinio sam cuda - Live Anid Ćusić Kafansko veče (Live).mp3",
+    "url": "./muzika/02 Cinio sam cuda - Live Anid Ćusić Kafansko veče (Live).mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 10,
+    "title": "Live Nikola Ajdinović Kafansko vece (Live)",
+    "artist": "Sve cu dati kucu konje",
+    "file_name": "05 Sve cu dati kucu konje - Live Nikola Ajdinović Kafansko vece (Live).mp3",
+    "url": "./muzika/05 Sve cu dati kucu konje - Live Nikola Ajdinović Kafansko vece (Live).mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 11,
+    "title": "Naked  Maryn Charlie",
+    "artist": "Unknown Artist",
+    "file_name": "Naked  Maryn Charlie.mp3",
+    "url": "./muzika/Naked  Maryn Charlie.mp3",
+    "cover_url": "https://via.placeholder.com/150"
+  }
+]
