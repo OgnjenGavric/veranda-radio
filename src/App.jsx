@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Howl } from 'howler';
 import { Play, Pause, SkipBack, SkipForward, Music, Volume2, Search, Settings, LayoutGrid, Info } from 'lucide-react';
-import playlistData from '../RESTORAN_VERANDA_Standard/playlist.json';
+import playlistData from '../public/RESTORAN_VERANDA_Standard/playlist.json';
 import PlaylistGrid from './components/PlaylistGrid';
 
 const App = () => {
