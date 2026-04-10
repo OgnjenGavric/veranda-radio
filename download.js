@@ -3,14 +3,14 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import axios from 'axios';
 
-// Podešavanje __dirname za ESM module
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// --- KONFIGURACIJA ---
-const FOLDER_NAME = "RESTORAN_VERANDA_Standard";
-const musicFolder = path.join(__dirname, FOLDER_NAME, 'muzika');
-const jsonFilePath = path.join(__dirname, FOLDER_NAME, 'playlist.json');
+// --- NOVA KONFIGURACIJA ---
+// Pjesme moraju biti u public da bi ih browser vidio
+const musicFolder = path.join(__dirname, 'public', 'muzika');
+// JSON ide u src da bi ga App.jsx mogao importovati
+const jsonFilePath = path.join(__dirname, 'src', 'playlist.json');
 
 // Lista linkova
 const rawLinks = [
@@ -176,79 +176,59 @@ const rawLinks = [
 
 ];
 
-// Kreiranje stabla foldera
 if (!fs.existsSync(musicFolder)) {
     fs.mkdirSync(musicFolder, { recursive: true });
 }
 
 async function downloadFile(url) {
     try {
-        // Izvlačenje čistog imena fajla iz URL-a
-        const urlWithoutQuery = url.split('?')[0];
-        const fileName = path.basename(decodeURIComponent(urlWithoutQuery));
+        const urlObj = new URL(url);
+        const pathname = decodeURIComponent(urlObj.pathname);
+        let fileName = path.basename(pathname);
+
         const filePath = path.join(musicFolder, fileName);
 
         if (fs.existsSync(filePath)) {
-            console.log(`⏩ Preskačem (već postoji): ${fileName}`);
             return fileName;
         }
 
-        console.log(`⏳ Preuzimam: ${fileName}...`);
-        const response = await axios({
-            url,
-            method: 'GET',
-            responseType: 'stream',
-            timeout: 30000 // 30 sekundi timeout
-        });
-
+        console.log(`⏳ Skidam: ${fileName}...`);
+        const response = await axios({ url, method: 'GET', responseType: 'stream' });
         const writer = fs.createWriteStream(filePath);
         response.data.pipe(writer);
 
-        return new Promise((resolve, reject) => {
+        return new Promise((resolve) => {
             writer.on('finish', () => resolve(fileName));
-            writer.on('error', (err) => {
-                fs.unlink(filePath, () => { }); // Briše djelimičan fajl u slučaju greške
-                reject(err);
-            });
+            writer.on('error', () => resolve(null));
         });
     } catch (error) {
-        console.error(`❌ Greška pri preuzimanju: ${error.message}`);
+        console.error(`❌ Greška: ${error.message}`);
         return null;
     }
 }
 
 function parseMetadata(fileName) {
-    // Uklanjanje ekstenzije
     let cleanName = fileName.replace(/\.mp3$/i, '');
-
-    // Uklanjanje rednih brojeva na početku (npr. "02 ", "01-")
     cleanName = cleanName.replace(/^\d+[\s\-_]*/, '');
-
     let artist = "Nepoznat Izvođač";
     let title = cleanName;
 
-    // Ako postoji crtica, razdvoji izvođača i pjesmu
     if (cleanName.includes(' - ')) {
         const parts = cleanName.split(' - ');
         artist = parts[0].trim();
         title = parts[1].trim();
     }
-
     return { artist, title };
 }
 
 async function start() {
-    console.log(`🚀 Pokrećem proces za: ${FOLDER_NAME}`);
+    console.log(`🚀 Pokrećem download u: ${musicFolder}`);
     const downloadedFiles = [];
 
     for (const link of rawLinks) {
         const fileName = await downloadFile(link);
-        if (fileName) {
-            downloadedFiles.push(fileName);
-        }
+        if (fileName) downloadedFiles.push(fileName);
     }
-
-    console.log("📄 Generišem playlist.json...");
 
     const playlist = downloadedFiles.map((fileName, index) => {
         const { artist, title } = parseMetadata(fileName);
@@ -257,14 +237,13 @@ async function start() {
             title: title,
             artist: artist,
             file_name: fileName,
-            url: `./muzika/${fileName}`, // Relativna putanja za plejer
-            cover_url: "/images/placeholders/bg-song.png"
+            url: `./muzika/${fileName}`, // Putanja za frontend
+            cover_url: "https://via.placeholder.com/150"
         };
     });
 
     fs.writeFileSync(jsonFilePath, JSON.stringify(playlist, null, 2), 'utf-8');
-    console.log(`✅ Završeno! Ukupno pjesama: ${playlist.length}`);
-    console.log(`📍 Lokacija: ${FOLDER_NAME}/`);
+    console.log(`✅ Playlist sačuvan u: ${jsonFilePath}`);
 }
 
 start();

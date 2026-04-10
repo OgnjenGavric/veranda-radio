@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Howl } from 'howler';
 import { Play, Pause, SkipBack, SkipForward, Music, Volume2, Search, Settings, LayoutGrid, Info } from 'lucide-react';
-import playlistData from '../public/RESTORAN_VERANDA_Standard/playlist.json';
+// Uvozimo iz istog (src) foldera
+import playlistData from './playlist.json';
 import PlaylistGrid from './components/PlaylistGrid';
 
 const App = () => {
@@ -247,12 +248,12 @@ const App = () => {
       {currentTrack && (
         <div className="fixed bottom-6 left-4 right-4 md:bottom-8 md:left-8 md:right-8 lg:left-80 h-36 md:h-36 bg-zinc-950/90 backdrop-blur-xl border border-white/5 rounded-[32px] md:rounded-[48px] px-6 md:px-14 flex items-center z-50 group pt-8">
           <div className="absolute top-4 left-8 right-8 md:left-16 md:right-16 h-6 flex items-center">
-            <input 
-              type="range" 
-              min="0" 
-              max="100" 
-              step="0.1" 
-              value={progress} 
+            <input
+              type="range"
+              min="0"
+              max="100"
+              step="0.1"
+              value={progress}
               onChange={handleSeek}
               onInput={(e) => {
                 const val = parseFloat(e.target.value);
@@ -269,7 +270,7 @@ const App = () => {
           {/* Left Info - balanced flex column */}
           <div className="flex-1 flex items-center gap-4 md:gap-6 min-w-0">
             <div className={`w-14 h-14 md:w-16 md:h-16 rounded-[18px] md:rounded-[20px] overflow-hidden border border-white/10 flex-shrink-0 bg-zinc-900 shadow-xl transition-all duration-700 ${isPlaying ? 'scale-105 border-[#D1FF26]/30 shadow-[#D1FF26]/5' : ''}`}>
-              <img src={currentTrack.cover_url} className={`w-full h-full object-cover transition-all duration-1000 ${isPlaying ? 'animate-pulse-slow' : 'opacity-80'}`} alt="" onError={(e) => {e.target.src = '/images/placeholders/bg-song.png'}} />
+              <img src={currentTrack.cover_url} className={`w-full h-full object-cover transition-all duration-1000 ${isPlaying ? 'animate-pulse-slow' : 'opacity-80'}`} alt="" onError={(e) => { e.target.src = '/images/placeholders/bg-song.png' }} />
             </div>
             <div className="truncate min-w-0">
               <h5 className="text-[15px] md:text-lg font-black uppercase italic tracking-tighter truncate text-glow leading-tight">{currentTrack.displayTitle}</h5>
@@ -292,18 +293,18 @@ const App = () => {
           {/* Right Section - Completely hidden on mobile */}
           <div className="flex-1 hidden md:flex items-center justify-end">
             <div className="flex items-center gap-4 bg-white/5 px-5 py-3 rounded-2xl border border-white/5 backdrop-blur-sm">
-              <button 
+              <button
                 onClick={() => setVolume(v => v === 0 ? 0.8 : 0)}
                 className="text-zinc-400 hover:text-[#D1FF26] transition-colors"
               >
                 <Volume2 size={18} className={volume === 0 ? 'opacity-30' : ''} />
               </button>
-              <input 
-                type="range" 
-                min="0" 
-                max="1" 
-                step="0.01" 
-                value={volume} 
+              <input
+                type="range"
+                min="0"
+                max="1"
+                step="0.01"
+                value={volume}
                 onInput={(e) => setVolume(parseFloat(e.target.value))}
                 onChange={(e) => setVolume(parseFloat(e.target.value))}
                 className="volume-slider w-24 h-1 bg-white/10 rounded-full appearance-none cursor-pointer outline-none"
