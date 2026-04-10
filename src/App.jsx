@@ -84,11 +84,12 @@ const App = () => {
     setCurrentTime(0);
 
     // Putanja usklađena sa tvojom novom strukturom unutar public foldera
-    const audioPath = `/RESTORAN_VERANDA_Standard/muzika/${track.file_name}`;
+    const audioPath = track.url;
 
     const sound = new Howl({
       src: [audioPath],
       html5: true,
+      format: ['mp3'],
       volume: volume,
       onplay: () => {
         setIsPlaying(true);

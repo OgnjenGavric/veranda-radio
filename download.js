@@ -162,7 +162,6 @@ const rawLinks = [
     "https://cdn.bizz-radio.net/Parla%20Italiano/Signora%20%20Enrico%20Musiani.mp3?stoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU4MTAyOTgsImlkIjoxNzEsInVzZXJfaWQiOjE3MSwiZGV2aWNlX2lkIjoxMTk2LCJjb250ZW50X2lkIjoyNDE1NTMsInR5cGUiOiJjb250ZW50IiwidXNlcl9wbGF5bGlzdF9pZCI6MjQzNDh9.5Ddijgxziditg-Nab4WrNDQ3eg6xZHr_M2aTHchSxGQ",
     "https://cdn.bizz-radio.net/Parla%20Italiano/Metti%20una%20sera%20a%20cena%20%20Emanuela%20Campana.mp3?stoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU4MTAzMDMsImlkIjoxNzEsInVzZXJfaWQiOjE3MSwiZGV2aWNlX2lkIjoxMTk2LCJjb250ZW50X2lkIjoyNDE0OTgsInR5cGUiOiJjb250ZW50IiwidXNlcl9wbGF5bGlzdF9pZCI6MjQzNDh9.gkdfJ5oCmPSKdqCtJ7fTXoCd_YO3iun4VOJyD6YnB8g",
     "https://cdn.bizz-radio.net/Parla%20Italiano/Eros%20Ramazzotti%20-%20Una%20storia%20importante.mp3?stoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU4MTAzMDMsImlkIjoxNzEsInVzZXJfaWQiOjE3MSwiZGV2aWNlX2lkIjoxMTk2LCJjb250ZW50X2lkIjoyNDE0MzgsInR5cGUiOiJjb250ZW50IiwidXNlcl9wbGF5bGlzdF9pZCI6MjQzNDh9.B1o-u3WrQfOSUa6gT2SadyHE4d2y3fchMSN0PSQhqxY",
-    "https://cdn.bizz-radio.net/Parla%20Italiano/09%20L'uom%20che%20guardava%20Le%20nuvole.mp3?stoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU4MTAzMDYsImlkIjoxNzEsInVzZXJfaWQiOjE3MSwiZGV2aWNlX2lkIjoxMTk2LCJjb250ZW50X2lkIjoyNDEzNTEsInR5cGUiOiJjb250ZW50IiwidXNlcl9wbGF5bGlzdF9pZCI6MjQzNDh9.k5bY_g87l2ONkrZXOvXNwcqy0QndmayN3rkw9PbV3wI",
     "https://cdn.bizz-radio.net/Parla%20Italiano/Nel%20mondo%20%20Al%20Bano,%20Romina%20Power.mp3?stoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU4MTAzMDYsImlkIjoxNzEsInVzZXJfaWQiOjE3MSwiZGV2aWNlX2lkIjoxMTk2LCJjb250ZW50X2lkIjoyNDE1MDYsInR5cGUiOiJjb250ZW50IiwidXNlcl9wbGF5bGlzdF9pZCI6MjQzNDh9.fScJz2w3L_quSDJfJMBtaRSuL1OSkEEINyYodVVAVXI",
     "https://cdn.bizz-radio.net/Parla%20Italiano/Eros%20Ramazzotti%20-%20Difendero(duet%20with%20Joe%20Cocker-live).mp3?stoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU4MTAzMTEsImlkIjoxNzEsInVzZXJfaWQiOjE3MSwiZGV2aWNlX2lkIjoxMTk2LCJjb250ZW50X2lkIjoyNDE0MjEsInR5cGUiOiJjb250ZW50IiwidXNlcl9wbGF5bGlzdF9pZCI6MjQzNDh9.gvcHeP8IEW9stdfxjD_2o4F96UD583HO9ADMhB3LMlU",
     "https://cdn.bizz-radio.net/Parla%20Italiano/Capuccina%20(Permette%20signorina...)%20%20Renzo%20Arbore.mp3?stoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU4MTAzMTEsImlkIjoxNzEsInVzZXJfaWQiOjE3MSwiZGV2aWNlX2lkIjoxMTk2LCJjb250ZW50X2lkIjoyNDEzOTYsInR5cGUiOiJjb250ZW50IiwidXNlcl9wbGF5bGlzdF9pZCI6MjQzNDh9.oBJIfqjIkTtOnkeJZdfYejkIOob4_VWRolObkRKesmk",
@@ -237,8 +236,8 @@ async function start() {
             title: title,
             artist: artist,
             file_name: fileName,
-            url: `./muzika/${fileName}`, // Putanja za frontend
-            cover_url: "./images/placeholders/bg-song.png"
+            url: `/muzika/${fileName}`, // Putanja za frontend
+            cover_url: "/images/placeholders/bg-song.png"
         };
     });
 
