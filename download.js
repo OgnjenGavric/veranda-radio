@@ -238,7 +238,7 @@ async function start() {
             artist: artist,
             file_name: fileName,
             url: `./muzika/${fileName}`, // Putanja za frontend
-            cover_url: "https://via.placeholder.com/150"
+            cover_url: "./images/placeholders/bg-song.png"
         };
     });
 

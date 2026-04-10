@@ -5,7 +5,7 @@
     "artist": "Nubiyan Twist",
     "file_name": "Nubiyan Twist - Lights Out.mp3",
     "url": "./muzika/Nubiyan Twist - Lights Out.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Naked  Maryn Charlie.mp3",
     "url": "./muzika/Naked  Maryn Charlie.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "artist": "Art Company",
     "file_name": "Art Company - Susanna.mp3",
     "url": "./muzika/Art Company - Susanna.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "artist": "Pitbull",
     "file_name": "Pitbull - Give Me Everything (feat. Ne-Yo, Afrojack & Nayer).mp3",
     "url": "./muzika/Pitbull - Give Me Everything (feat. Ne-Yo, Afrojack & Nayer).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "artist": "Portugal. The Man",
     "file_name": "Portugal. The Man - Feel It Still.mp3",
     "url": "./muzika/Portugal. The Man - Feel It Still.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "artist": "Major Lazer",
     "file_name": "Major Lazer - Lean On (feat. MØ & DJ Snake).mp3",
     "url": "./muzika/Major Lazer - Lean On (feat. MØ & DJ Snake).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Eclissi del cuore (feat. Nek).mp3",
     "url": "./muzika/01 Eclissi del cuore (feat. Nek).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Strada facendo.mp3",
     "url": "./muzika/01 Strada facendo.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Se m'innamoro  Ricchi E Poveri.mp3",
     "url": "./muzika/Se m'innamoro  Ricchi E Poveri.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Folija.mp3",
     "url": "./muzika/01 Folija.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "artist": "Gabrielle",
     "file_name": "Gabrielle - Stay The Same.mp3",
     "url": "./muzika/Gabrielle - Stay The Same.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "artist": "Bijelo dugme",
     "file_name": "Bijelo dugme - Bitanga I Princeza (Single) (Abbey Road Remastered 2014).mp3",
     "url": "./muzika/Bijelo dugme - Bitanga I Princeza (Single) (Abbey Road Remastered 2014).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Comfort In A Crowd  Retrofile.mp3",
     "url": "./muzika/Comfort In A Crowd  Retrofile.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "artist": "The Style Council",
     "file_name": "The Style Council - Shout To The Top.mp3",
     "url": "./muzika/The Style Council - Shout To The Top.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "No Complaints.mp3",
     "url": "./muzika/No Complaints.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "03 Rudar.mp3",
     "url": "./muzika/03 Rudar.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "artist": "Faith No More",
     "file_name": "Faith No More - Easy.mp3",
     "url": "./muzika/Faith No More - Easy.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "artist": "Take That",
     "file_name": "Take That - Giants.mp3",
     "url": "./muzika/Take That - Giants.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "artist": "Crvena Jabuka",
     "file_name": "Crvena Jabuka - Tamo Gdje Ljubav Počinje.mp3",
     "url": "./muzika/Crvena Jabuka - Tamo Gdje Ljubav Počinje.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "07 I Put a Spell on You.mp3",
     "url": "./muzika/07 I Put a Spell on You.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Sword from the Stone  Passenger.mp3",
     "url": "./muzika/Sword from the Stone  Passenger.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "artist": "Why Don't We",
     "file_name": "Why Don't We - 8 Letters.mp3",
     "url": "./muzika/Why Don't We - 8 Letters.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Ljubav bez dodira.mp3",
     "url": "./muzika/01 Ljubav bez dodira.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "artist": "mr president featuring mr day",
     "file_name": "mr president featuring mr day - love & happiness.mp3",
     "url": "./muzika/mr president featuring mr day - love & happiness.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "artist": "Michael Bublé",
     "file_name": "Michael Bublé - Haven't Met You Yet.mp3",
     "url": "./muzika/Michael Bublé - Haven't Met You Yet.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "09 Dane brojim.mp3",
     "url": "./muzika/09 Dane brojim.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "artist": "Tina Turner",
     "file_name": "Tina Turner - Missing You.mp3",
     "url": "./muzika/Tina Turner - Missing You.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Leave Me Alone  Niiasii.mp3",
     "url": "./muzika/Leave Me Alone  Niiasii.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "03 I Love You Always Forever.mp3",
     "url": "./muzika/03 I Love You Always Forever.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Moj je život moja pjesma  Maya Sar, Nina Badric, Karolina Goceva, Aleksandra Radović.mp3",
     "url": "./muzika/Moj je život moja pjesma  Maya Sar, Nina Badric, Karolina Goceva, Aleksandra Radović.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "10. Bad Boy (Single Version).mp3",
     "url": "./muzika/10. Bad Boy (Single Version).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "artist": "Nelly Furtado",
     "file_name": "Nelly Furtado - I'm Like A Bird.mp3",
     "url": "./muzika/Nelly Furtado - I'm Like A Bird.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "artist": "Plavi Orkestar",
     "file_name": "Plavi Orkestar - Odlazim.mp3",
     "url": "./muzika/Plavi Orkestar - Odlazim.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "04 Ti vorrei rivivere.mp3",
     "url": "./muzika/04 Ti vorrei rivivere.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "I Don't Care  Ariana Grande.mp3",
     "url": "./muzika/I Don't Care  Ariana Grande.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 - S.O.B.mp3",
     "url": "./muzika/01 - S.O.B.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Ljubi  Nevena Božović.mp3",
     "url": "./muzika/Ljubi  Nevena Božović.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Shiny Happy People  R.E.M_.mp3",
     "url": "./muzika/Shiny Happy People  R.E.M_.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "artist": "The Love Unlimited Orchestra",
     "file_name": "The Love Unlimited Orchestra - Love's theme.mp3",
     "url": "./muzika/The Love Unlimited Orchestra - Love's theme.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "artist": "Plavi Orkestar",
     "file_name": "Plavi Orkestar - Azra.mp3",
     "url": "./muzika/Plavi Orkestar - Azra.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 41,
@@ -325,7 +325,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "05 If You Can't Say No.mp3",
     "url": "./muzika/05 If You Can't Say No.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "FanGirl  8TEEN.mp3",
     "url": "./muzika/FanGirl  8TEEN.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@
     "artist": "Maria",
     "file_name": "Maria - Radio Edit  Blondie.mp3",
     "url": "./muzika/Maria - Radio Edit  Blondie.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 44,
@@ -349,7 +349,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Ljubi, ljubi doveka.mp3",
     "url": "./muzika/01 Ljubi, ljubi doveka.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 45,
@@ -357,7 +357,7 @@
     "artist": ". Norah Jones",
     "file_name": "94. Norah Jones - Don't Know Why (192kHz-24bit).mp3",
     "url": "./muzika/94. Norah Jones - Don't Know Why (192kHz-24bit).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 46,
@@ -365,7 +365,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Cobalt Blue  Ruby Plume.mp3",
     "url": "./muzika/Cobalt Blue  Ruby Plume.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 47,
@@ -373,7 +373,7 @@
     "artist": "Parni Valjak",
     "file_name": "Parni Valjak - Zastave.mp3",
     "url": "./muzika/Parni Valjak - Zastave.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 48,
@@ -381,7 +381,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "03 In te.mp3",
     "url": "./muzika/03 In te.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 49,
@@ -389,7 +389,7 @@
     "artist": "Bruno Mars",
     "file_name": "Bruno Mars - Smokin Out the Window.mp3",
     "url": "./muzika/Bruno Mars - Smokin Out the Window.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 50,
@@ -397,7 +397,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Cuts Like A Knife (Classic Version)  Bryan Adams.mp3",
     "url": "./muzika/Cuts Like A Knife (Classic Version)  Bryan Adams.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 51,
@@ -405,7 +405,7 @@
     "artist": "ANTONELA DOKO",
     "file_name": "ANTONELA DOKO - IMAMO LI PROBLEM.mp3",
     "url": "./muzika/ANTONELA DOKO - IMAMO LI PROBLEM.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 52,
@@ -413,7 +413,7 @@
     "artist": ". Primal Scream",
     "file_name": "98. Primal Scream - Movin' on Up  (Remastered).mp3",
     "url": "./muzika/98. Primal Scream - Movin' on Up  (Remastered).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 53,
@@ -421,7 +421,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "It’s Called Doubt  Drayton Farley.mp3",
     "url": "./muzika/It’s Called Doubt  Drayton Farley.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 54,
@@ -429,7 +429,7 @@
     "artist": "crvena jabuka",
     "file_name": "crvena jabuka - deni.mp3",
     "url": "./muzika/crvena jabuka - deni.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 55,
@@ -437,7 +437,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Sins Of The Fathers  UB40.mp3",
     "url": "./muzika/Sins Of The Fathers  UB40.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 56,
@@ -445,7 +445,7 @@
     "artist": "Dermot Kennedy",
     "file_name": "Dermot Kennedy - Power Over Me.mp3",
     "url": "./muzika/Dermot Kennedy - Power Over Me.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 57,
@@ -453,7 +453,7 @@
     "artist": "Double Dee",
     "file_name": "Double Dee - Found Love (Caipirina_Remix).mp3",
     "url": "./muzika/Double Dee - Found Love (Caipirina_Remix).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "08. Ja Ću Plakat Sama.mp3",
     "url": "./muzika/08. Ja Ću Plakat Sama.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@
     "artist": "ABBA",
     "file_name": "ABBA - Mamma Mia.mp3",
     "url": "./muzika/ABBA - Mamma Mia.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 60,
@@ -477,7 +477,7 @@
     "artist": "Teddy Pendergrass",
     "file_name": "Teddy Pendergrass - Love T.K.O. (Album).mp3",
     "url": "./muzika/Teddy Pendergrass - Love T.K.O. (Album).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 61,
@@ -485,7 +485,7 @@
     "artist": "Plavi Orkestar",
     "file_name": "Plavi Orkestar - Ljubi se istok i zapad.mp3",
     "url": "./muzika/Plavi Orkestar - Ljubi se istok i zapad.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 62,
@@ -493,7 +493,7 @@
     "artist": "Sussudio",
     "file_name": "Sussudio - 2016 Remaster  Phil Collins.mp3",
     "url": "./muzika/Sussudio - 2016 Remaster  Phil Collins.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 63,
@@ -501,7 +501,7 @@
     "artist": "Jay Sean Feat. The Rishi Rich Project",
     "file_name": "Jay Sean Feat. The Rishi Rich Project - Eyes On You (feat. The Rishi Rich Project).mp3",
     "url": "./muzika/Jay Sean Feat. The Rishi Rich Project - Eyes On You (feat. The Rishi Rich Project).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 64,
@@ -509,7 +509,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "04 - Time After Time.mp3",
     "url": "./muzika/04 - Time After Time.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 65,
@@ -517,7 +517,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Nedjelja.mp3",
     "url": "./muzika/01 Nedjelja.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 66,
@@ -525,7 +525,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "20 - Show Me Where You're Coming From (Edit).mp3",
     "url": "./muzika/20 - Show Me Where You're Coming From (Edit).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 67,
@@ -533,7 +533,7 @@
     "artist": "The Fray",
     "file_name": "The Fray - How to Save a Life.mp3",
     "url": "./muzika/The Fray - How to Save a Life.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 68,
@@ -541,7 +541,7 @@
     "artist": "ITD BAND",
     "file_name": "ITD BAND - Skidam Te Pogledom.mp3",
     "url": "./muzika/ITD BAND - Skidam Te Pogledom.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 69,
@@ -549,7 +549,7 @@
     "artist": "Billy Idol",
     "file_name": "Billy Idol - Eyes Without A Face.mp3",
     "url": "./muzika/Billy Idol - Eyes Without A Face.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 70,
@@ -557,7 +557,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Mercy  Shawn Mendes.mp3",
     "url": "./muzika/Mercy  Shawn Mendes.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 71,
@@ -565,7 +565,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "La Cumparsita  Julio Iglesias.mp3",
     "url": "./muzika/La Cumparsita  Julio Iglesias.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 72,
@@ -573,7 +573,7 @@
     "artist": "Matija Cvek",
     "file_name": "Matija Cvek - Riječi (Acoustic by Pelinova).mp3",
     "url": "./muzika/Matija Cvek - Riječi (Acoustic by Pelinova).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 73,
@@ -581,7 +581,7 @@
     "artist": "Skyy",
     "file_name": "Skyy - Call Me.mp3",
     "url": "./muzika/Skyy - Call Me.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 74,
@@ -589,7 +589,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "break your own heart  Harvey Brittain.mp3",
     "url": "./muzika/break your own heart  Harvey Brittain.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 75,
@@ -597,7 +597,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "05 - Cool About It.mp3",
     "url": "./muzika/05 - Cool About It.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 76,
@@ -605,7 +605,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Opusti se.mp3",
     "url": "./muzika/Opusti se.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 77,
@@ -613,7 +613,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Poster Child  Retrofile.mp3",
     "url": "./muzika/Poster Child  Retrofile.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 78,
@@ -621,7 +621,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Tu Boda  Oscar Maydon, Fuerza Regida.mp3",
     "url": "./muzika/Tu Boda  Oscar Maydon, Fuerza Regida.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 79,
@@ -629,7 +629,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "05 - Brzi U.mp3",
     "url": "./muzika/05 - Brzi U.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 80,
@@ -637,7 +637,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Trista Pena  Gipsy Kings.mp3",
     "url": "./muzika/Trista Pena  Gipsy Kings.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 81,
@@ -645,7 +645,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "It's You  WRABEL, Magical Thinker.mp3",
     "url": "./muzika/It's You  WRABEL, Magical Thinker.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 82,
@@ -653,7 +653,7 @@
     "artist": "Eurythmics",
     "file_name": "Eurythmics - We Two Are One.mp3",
     "url": "./muzika/Eurythmics - We Two Are One.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 83,
@@ -661,7 +661,7 @@
     "artist": "MARKO KUTLIĆ",
     "file_name": "MARKO KUTLIĆ - 02 - Usne tvoje.mp3",
     "url": "./muzika/MARKO KUTLIĆ - 02 - Usne tvoje.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 84,
@@ -669,7 +669,7 @@
     "artist": "Amy Macdonald",
     "file_name": "Amy Macdonald - This Is The Life.mp3",
     "url": "./muzika/Amy Macdonald - This Is The Life.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 85,
@@ -677,7 +677,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Sleeping In My Makeup  Mira Housey.mp3",
     "url": "./muzika/Sleeping In My Makeup  Mira Housey.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 86,
@@ -685,7 +685,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Jutro Na Tašmajdanu  Kiki Lesendric, Piloti.mp3",
     "url": "./muzika/Jutro Na Tašmajdanu  Kiki Lesendric, Piloti.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 87,
@@ -693,7 +693,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "11 Oggi che giorno è.mp3",
     "url": "./muzika/11 Oggi che giorno è.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 88,
@@ -701,7 +701,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "BLUSH!  nicole han.mp3",
     "url": "./muzika/BLUSH!  nicole han.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 89,
@@ -709,7 +709,7 @@
     "artist": "Coldplay",
     "file_name": "Coldplay - The Scientist.mp3",
     "url": "./muzika/Coldplay - The Scientist.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 90,
@@ -717,7 +717,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Pamtim  Tanja Banjanin.mp3",
     "url": "./muzika/Pamtim  Tanja Banjanin.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 91,
@@ -725,7 +725,7 @@
     "artist": "Lainey Wilson",
     "file_name": "Lainey Wilson - Out of Oklahoma.mp3",
     "url": "./muzika/Lainey Wilson - Out of Oklahoma.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 92,
@@ -733,7 +733,7 @@
     "artist": "Ed Sheeran",
     "file_name": "Ed Sheeran - A Beautiful Game.mp3",
     "url": "./muzika/Ed Sheeran - A Beautiful Game.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 93,
@@ -741,7 +741,7 @@
     "artist": "Massimo",
     "file_name": "Massimo - Ne Dam Grijehu Na Tebe.mp3",
     "url": "./muzika/Massimo - Ne Dam Grijehu Na Tebe.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 94,
@@ -749,7 +749,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Rhythm Is Gonna Get You  Miami Sound Machine.mp3",
     "url": "./muzika/Rhythm Is Gonna Get You  Miami Sound Machine.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 95,
@@ -757,7 +757,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Super Elastic  ili.mp3",
     "url": "./muzika/Super Elastic  ili.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 96,
@@ -765,7 +765,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "2 On (feat. ScHoolboy Q)  Tinashe, ScHoolboy Q.mp3",
     "url": "./muzika/2 On (feat. ScHoolboy Q)  Tinashe, ScHoolboy Q.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 97,
@@ -773,7 +773,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Tu che ne sai  Gigi D'Alessio.mp3",
     "url": "./muzika/Tu che ne sai  Gigi D'Alessio.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 98,
@@ -781,7 +781,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Cosa Sei  Ricchi E Poveri.mp3",
     "url": "./muzika/Cosa Sei  Ricchi E Poveri.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 99,
@@ -789,7 +789,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Rose rosse  Massimo Ranieri.mp3",
     "url": "./muzika/Rose rosse  Massimo Ranieri.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 100,
@@ -797,7 +797,7 @@
     "artist": "Ricchi E Poveri",
     "file_name": "Ricchi E Poveri - Mamma Maria.mp3",
     "url": "./muzika/Ricchi E Poveri - Mamma Maria.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 101,
@@ -805,7 +805,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Mala femmena  Jack Jezzro.mp3",
     "url": "./muzika/Mala femmena  Jack Jezzro.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 102,
@@ -813,7 +813,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Una vita normale  Lavezzi Mario, Giulia Fasolino.mp3",
     "url": "./muzika/Una vita normale  Lavezzi Mario, Giulia Fasolino.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 103,
@@ -821,7 +821,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Torna A Surriento  Jack Jezzro.mp3",
     "url": "./muzika/Torna A Surriento  Jack Jezzro.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 104,
@@ -829,7 +829,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Vai vai vai  Irene Grandi.mp3",
     "url": "./muzika/Vai vai vai  Irene Grandi.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 105,
@@ -837,7 +837,7 @@
     "artist": "toto cutugno",
     "file_name": "toto cutugno - soli.mp3",
     "url": "./muzika/toto cutugno - soli.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 106,
@@ -845,7 +845,7 @@
     "artist": "mila",
     "file_name": "50mila - Versione Mine Vaganti  Nina Zilli.mp3",
     "url": "./muzika/50mila - Versione Mine Vaganti  Nina Zilli.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 107,
@@ -853,7 +853,7 @@
     "artist": "Ricchi e Poveri",
     "file_name": "Ricchi e Poveri - Piccolo amore.mp3",
     "url": "./muzika/Ricchi e Poveri - Piccolo amore.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 108,
@@ -861,7 +861,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Alta marea (Don't Dream It's Over)  Antonello Venditti.mp3",
     "url": "./muzika/Alta marea (Don't Dream It's Over)  Antonello Venditti.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 109,
@@ -869,7 +869,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Passionalita'  Lavezzi Mario, Veronica Piris.mp3",
     "url": "./muzika/Passionalita'  Lavezzi Mario, Veronica Piris.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 110,
@@ -877,7 +877,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Possibilité d'Une Ile  Carla Bruni.mp3",
     "url": "./muzika/Possibilité d'Une Ile  Carla Bruni.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 111,
@@ -885,7 +885,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "L'Arcobaleno  Adriano Celentano.mp3",
     "url": "./muzika/L'Arcobaleno  Adriano Celentano.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 112,
@@ -893,7 +893,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Povero Cuore  Enrico Musiani.mp3",
     "url": "./muzika/Povero Cuore  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 113,
@@ -901,7 +901,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Arrivederci Roma  Jack Jezzro.mp3",
     "url": "./muzika/Arrivederci Roma  Jack Jezzro.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 114,
@@ -909,7 +909,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Santa Maria  Enrico Musiani.mp3",
     "url": "./muzika/Santa Maria  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 115,
@@ -917,7 +917,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Piccolo fiore  Enrico Musiani.mp3",
     "url": "./muzika/Piccolo fiore  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 116,
@@ -925,7 +925,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Super Amor  Ricchi E Poveri.mp3",
     "url": "./muzika/Super Amor  Ricchi E Poveri.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 117,
@@ -933,7 +933,7 @@
     "artist": "Lewis Capaldi",
     "file_name": "Lewis Capaldi - Bruises.mp3",
     "url": "./muzika/Lewis Capaldi - Bruises.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 118,
@@ -941,7 +941,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "09 Yo sin ti.mp3",
     "url": "./muzika/09 Yo sin ti.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 119,
@@ -949,7 +949,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Verso Il Duemila  Al Bano, Romina Power.mp3",
     "url": "./muzika/Verso Il Duemila  Al Bano, Romina Power.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 120,
@@ -957,7 +957,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Una vita normale  Lavezzi Mario, Giulia Fasolino.mp3",
     "url": "./muzika/Una vita normale  Lavezzi Mario, Giulia Fasolino.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 121,
@@ -965,7 +965,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "E io mi sono innamorato  Ricchi E Poveri.mp3",
     "url": "./muzika/E io mi sono innamorato  Ricchi E Poveri.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 122,
@@ -973,7 +973,7 @@
     "artist": "Al Bano & Romina Power",
     "file_name": "Al Bano & Romina Power - Felicità.mp3",
     "url": "./muzika/Al Bano & Romina Power - Felicità.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 123,
@@ -981,7 +981,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Parole  Enrico Musiani.mp3",
     "url": "./muzika/Parole  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 124,
@@ -989,7 +989,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Sempre, Sempre  Al Bano, Romina Power.mp3",
     "url": "./muzika/Sempre, Sempre  Al Bano, Romina Power.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 125,
@@ -997,7 +997,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Sei la sola che amo  Ricchi E Poveri.mp3",
     "url": "./muzika/Sei la sola che amo  Ricchi E Poveri.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 126,
@@ -1005,7 +1005,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Io che amo solo te (feat. Chico Buarque)  Chiara Civello, Chico Buarque.mp3",
     "url": "./muzika/Io che amo solo te (feat. Chico Buarque)  Chiara Civello, Chico Buarque.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 127,
@@ -1013,7 +1013,7 @@
     "artist": "Meccano",
     "file_name": "Meccano - Senza di te.mp3",
     "url": "./muzika/Meccano - Senza di te.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 128,
@@ -1021,7 +1021,7 @@
     "artist": "Meccano",
     "file_name": "Meccano - Una di Me.mp3",
     "url": "./muzika/Meccano - Una di Me.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 129,
@@ -1029,7 +1029,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Piccolissima serenata  Renato Carosone.mp3",
     "url": "./muzika/Piccolissima serenata  Renato Carosone.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 130,
@@ -1037,7 +1037,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Amarse (Amarsi)  Enrico Musiani.mp3",
     "url": "./muzika/Amarse (Amarsi)  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 131,
@@ -1045,7 +1045,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Il treno va  Toto Cutugno.mp3",
     "url": "./muzika/Il treno va  Toto Cutugno.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 132,
@@ -1053,7 +1053,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Nell'estate del '66  Bruno Lauzi.mp3",
     "url": "./muzika/Nell'estate del '66  Bruno Lauzi.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 133,
@@ -1061,7 +1061,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "06 Sta passando novembre.mp3",
     "url": "./muzika/06 Sta passando novembre.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 134,
@@ -1069,7 +1069,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Dune Mosse.mp3",
     "url": "./muzika/01 Dune Mosse.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 135,
@@ -1077,7 +1077,7 @@
     "artist": "Allora sì",
     "file_name": "Allora sì - 2017 Remaster  Pino Daniele.mp3",
     "url": "./muzika/Allora sì - 2017 Remaster  Pino Daniele.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 136,
@@ -1085,7 +1085,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Ricordati di me  Antonello Venditti, Francesco De Gregori.mp3",
     "url": "./muzika/Ricordati di me  Antonello Venditti, Francesco De Gregori.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 137,
@@ -1093,7 +1093,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Arrivederci  Chiara Civello.mp3",
     "url": "./muzika/Arrivederci  Chiara Civello.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 138,
@@ -1101,7 +1101,7 @@
     "artist": "Metro Boomin",
     "file_name": "Metro Boomin - Creepin'.mp3",
     "url": "./muzika/Metro Boomin - Creepin'.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 139,
@@ -1109,7 +1109,7 @@
     "artist": "Eros Ramazzotti",
     "file_name": "Eros Ramazzotti - Senza perderci di vista.mp3",
     "url": "./muzika/Eros Ramazzotti - Senza perderci di vista.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 140,
@@ -1117,7 +1117,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Passar di mano (Por el Amor e una Mujer)  Julio Iglesias.mp3",
     "url": "./muzika/Passar di mano (Por el Amor e una Mujer)  Julio Iglesias.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 141,
@@ -1125,7 +1125,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Suona chitarra  Enrico Musiani.mp3",
     "url": "./muzika/Suona chitarra  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 142,
@@ -1133,7 +1133,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "10 L'ultimo metrò.mp3",
     "url": "./muzika/10 L'ultimo metrò.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 143,
@@ -1141,7 +1141,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Chitarra Vagabonda  Enrico Musiani.mp3",
     "url": "./muzika/Chitarra Vagabonda  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 144,
@@ -1149,7 +1149,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Canto solo per te  Enrico Musiani.mp3",
     "url": "./muzika/Canto solo per te  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 145,
@@ -1157,7 +1157,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Lauretta Non Piangere  Enrico Musiani.mp3",
     "url": "./muzika/Lauretta Non Piangere  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 146,
@@ -1165,7 +1165,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Signora  Enrico Musiani.mp3",
     "url": "./muzika/Signora  Enrico Musiani.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 147,
@@ -1173,7 +1173,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Metti una sera a cena  Emanuela Campana.mp3",
     "url": "./muzika/Metti una sera a cena  Emanuela Campana.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 148,
@@ -1181,7 +1181,7 @@
     "artist": "Eros Ramazzotti",
     "file_name": "Eros Ramazzotti - Una storia importante.mp3",
     "url": "./muzika/Eros Ramazzotti - Una storia importante.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 149,
@@ -1189,7 +1189,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Nel mondo  Al Bano, Romina Power.mp3",
     "url": "./muzika/Nel mondo  Al Bano, Romina Power.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 150,
@@ -1197,7 +1197,7 @@
     "artist": "Eros Ramazzotti",
     "file_name": "Eros Ramazzotti - Difendero(duet with Joe Cocker-live).mp3",
     "url": "./muzika/Eros Ramazzotti - Difendero(duet with Joe Cocker-live).mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 151,
@@ -1205,7 +1205,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Capuccina (Permette signorina...)  Renzo Arbore.mp3",
     "url": "./muzika/Capuccina (Permette signorina...)  Renzo Arbore.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 152,
@@ -1213,7 +1213,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Dimelo a Mi.mp3",
     "url": "./muzika/01 Dimelo a Mi.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 153,
@@ -1221,7 +1221,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "01 Gloria.mp3",
     "url": "./muzika/01 Gloria.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 154,
@@ -1229,7 +1229,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Libertà  Al Bano, Romina Power.mp3",
     "url": "./muzika/Libertà  Al Bano, Romina Power.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 155,
@@ -1237,7 +1237,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "E penso a te (feat. Ana Carolina)  Chiara Civello, Ana Carolina.mp3",
     "url": "./muzika/E penso a te (feat. Ana Carolina)  Chiara Civello, Ana Carolina.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 156,
@@ -1245,7 +1245,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "I cigni di Balakà  Al Bano, Romina Power.mp3",
     "url": "./muzika/I cigni di Balakà  Al Bano, Romina Power.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 157,
@@ -1253,7 +1253,7 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "03 Fatti avanti amore.mp3",
     "url": "./muzika/03 Fatti avanti amore.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   },
   {
     "id": 158,
@@ -1261,6 +1261,6 @@
     "artist": "Nepoznat Izvođač",
     "file_name": "Love In Portofino  Andrea Bocelli.mp3",
     "url": "./muzika/Love In Portofino  Andrea Bocelli.mp3",
-    "cover_url": "https://via.placeholder.com/150"
+    "cover_url": "./images/placeholders/bg-song.png"
   }
 ]
